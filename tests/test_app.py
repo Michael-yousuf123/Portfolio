@@ -1,4 +1,4 @@
-from app import index
+from portfolio import index
 
 def test_index():
     assert index() == "Hello World"
